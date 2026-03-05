@@ -37,6 +37,3 @@
 </p>
 
 ---
-<p align="center">
-  <i>"System.out.println('Keep coding and stay curious!');"</i>
-</p>
