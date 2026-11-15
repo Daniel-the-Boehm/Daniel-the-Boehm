@@ -24,10 +24,12 @@ First year completed with distinction.
 
 | Project | Description |
 | --- | --- |
-| [Snake for macOS](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Mac) | Snake with seven game modes and local multiplayer for up to four players |
-| [Snake for Windows](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Windows) | The Windows counterpart, compatible with the Mac version over the local network |
+| [Snake for macOS](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Mac) | Snake with seven game modes and local multiplayer for up to four players* |
+| [Snake for Windows](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Windows) | The Windows counterpart, compatible with the Mac version over the local network* |
 | [Personal Dashboard](https://github.com/Daniel-the-Boehm/Personal-Dashboard) | A password-protected start page with weather, calendar, sport, news and to-dos |
 | [Website Template](https://github.com/Daniel-the-Boehm/Website-Template) | A minimal starting point for static websites |
+
+*Built with AI assistance; concept, testing and releases are my own work.
 
 ## Contact
 
