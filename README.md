@@ -4,8 +4,8 @@ Second-year Information Technology student at HTL Paul-Hahn-Straße (LiTec) in L
 
 ## Education
 
-**HTL Paul-Hahn-Straße (LiTec), Linz**
-Department of Information Technology, 2025 to 2030 (expected)
+**HTL Paul-Hahn-Straße (LiTec), Linz**<br>
+Department of Information Technology, 2025 to 2030 (expected)<br>
 First year completed with distinction.
 
 ## Skills
